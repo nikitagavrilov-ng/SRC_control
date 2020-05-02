@@ -1,5 +1,5 @@
 ***************************************************************
-* Arduino Slot Car Racing Controller library - Version 1.0.0
+* Arduino Slot Car Racing Controller library - Version 1.0.1
 * by Nikita Gavrilov <nikitagavrilov.ng@gmail.com>
 *
 * This Library is free to use in a its compiled version
